@@ -36,7 +36,7 @@ The following image shows the web application's appearance and functionality:
 
 ## Links
 
-Deployed application:
+GitHub Pages site:
 
 - https://sarahayes20.github.io/04-Web-APIs-Code-Quiz/
 
