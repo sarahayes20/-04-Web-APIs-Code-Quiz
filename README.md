@@ -32,7 +32,6 @@ THEN I can save my initials and score
 
 The following image shows the web application's appearance and functionality:
 
-![quiz img](./assets/web-apis-code-quiz.png)
 ![quiz demo](./assets/web-apis-code-quiz.gif)
 
 ## Links
